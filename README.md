@@ -1,4 +1,4 @@
-#RDX Status
+# RDX Status
 Status System for RedM Extended
 
 ## Requirements
